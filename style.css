@@ -8,6 +8,7 @@
 body{
   background:#dee1e2;
   min-height:100vh;
+  width:100%;
   overflow-x: hidden;
 }
 header{
